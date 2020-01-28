@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "paap",
+    "slug": "appsecond",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "android"
+    ],
+    "android" : {
+      "package" : "com.greglimo.todoapp"
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
